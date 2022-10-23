@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    
+    "target": "es5",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    // "lib": [],                                        /* Specify a set of bundled library declaration files that describe the target runtime environment. */
+    
+    "module": "es6",                                /* Specify what module code is generated. */
+     "rootDir": "./",                                  /* Specify the root folder within your source files. */
+  
+    /* Type Checking */
+    "strict": true,                                      /* Enable all strict type-checking options. */
+               /* Default catch clause variables as 'unknown' instead of 'any'. */
+    "alwaysStrict": true,                             /* Ensure 'use strict' is always emitted. */
+                                 /* Skip type checking all .d.ts files. */
+  }
+}
